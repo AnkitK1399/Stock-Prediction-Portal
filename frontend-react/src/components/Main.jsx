@@ -10,9 +10,9 @@ const Main = () => {
         <div className="p-5 text-center bg-dark rounded-3">
             <h1 className="text-light">Welcome to Stock Prediction Portal</h1>
             <p className="text-light lead">Your one-stop destination for accurate stock market predictions. Stay ahead of the curve with our cutting-edge algorithms and real-time data analysis.</p>
-            <Button className="btn-warning" text="Log in" url="/login"/>
+            <Button className="btn-warning" text="Explore Now" url="/dashboard" />
         </div>
-
+ 
 
 
     </div>
